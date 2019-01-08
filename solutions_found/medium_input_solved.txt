@@ -1,0 +1,23 @@
+FOUND SOLUTION
+[pos_x: 1', pos_y=1, pos_x: 1', pos_y=2, pos_x: 1', pos_y=3, pos_x: 1', pos_y=4, pos_x: 1', pos_y=5, pos_x: 1', pos_y=6, pos_x: 1', pos_y=7, pos_x: 1', pos_y=8, pos_x: 1', pos_y=9, pos_x: 2', pos_y=9, pos_x: 3', pos_y=9, pos_x: 3', pos_y=10, pos_x: 3', pos_y=11, pos_x: 4', pos_y=11, pos_x: 5', pos_y=11, pos_x: 5', pos_y=12, pos_x: 5', pos_y=13, pos_x: 6', pos_y=13, pos_x: 7', pos_y=13, pos_x: 7', pos_y=12, pos_x: 7', pos_y=11, pos_x: 8', pos_y=11, pos_x: 9', pos_y=11, pos_x: 10', pos_y=11, pos_x: 11', pos_y=11, pos_x: 11', pos_y=10, pos_x: 11', pos_y=9, pos_x: 11', pos_y=8, pos_x: 11', pos_y=7, pos_x: 10', pos_y=7, pos_x: 9', pos_y=7, pos_x: 8', pos_y=7, pos_x: 7', pos_y=7, pos_x: 7', pos_y=6, pos_x: 7', pos_y=5, pos_x: 8', pos_y=5, pos_x: 9', pos_y=5, pos_x: 10', pos_y=5, pos_x: 11', pos_y=5, pos_x: 12', pos_y=5, pos_x: 13', pos_y=5, pos_x: 13', pos_y=6, pos_x: 13', pos_y=7, pos_x: 13', pos_y=8, pos_x: 13', pos_y=9, pos_x: 13', pos_y=10, pos_x: 13', pos_y=11, pos_x: 13', pos_y=12, pos_x: 13', pos_y=13, pos_x: 14', pos_y=13, pos_x: 15', pos_y=13, pos_x: 15', pos_y=14, pos_x: 15', pos_y=15, pos_x: 15', pos_y=16, pos_x: 15', pos_y=17, pos_x: 15', pos_y=18, pos_x: 15', pos_y=19, pos_x: 16', pos_y=19, pos_x: 17', pos_y=19, pos_x: 17', pos_y=18, pos_x: 17', pos_y=17, pos_x: 18', pos_y=17, pos_x: 19', pos_y=17, pos_x: 19', pos_y=16, pos_x: 19', pos_y=15, pos_x: 19', pos_y=14, pos_x: 19', pos_y=13, pos_x: 19', pos_y=12, pos_x: 20', pos_y=12, pos_x: 21', pos_y=12, pos_x: 21', pos_y=13, pos_x: 21', pos_y=14, pos_x: 21', pos_y=15, pos_x: 21', pos_y=16, pos_x: 21', pos_y=17, pos_x: 21', pos_y=18, pos_x: 21', pos_y=19]
+# # # # # # # # # # # # # # # # # # # # # # # 
+# S #       #                       #   #   # 
+# X #   #   #   # # # # # # #   #   #   #   # 
+# X #   #   #               #   #   #   #   # 
+# X #   #   # # # # # # # # #   #   #   #   # 
+# X #   #   # X X X X X X X #   #       #   # 
+# X #   #   # X # # # # # X #   # # # # #   # 
+# X #   #   # X X X X X # X #   #       #   # 
+# X # # #   # # #   # X # X #   #   #   #   # 
+# X X X     #       # X # X #   #   #   #   # 
+# # # X # # # # # # # X # X #   # # #   #   # 
+#     X X X # X X X X X # X #       #   #   # 
+# # # # # X # X # # # # # X # # #   # X X X # 
+#       # X X X     #     X X X #   # X # X # 
+#   #   # # # # #   # # #   # X #   # X # X # 
+#   #           #   #       # X     # X # X # 
+#   # # # # #   #   #   # # # X # # # X # X # 
+#   #       #   #   #       # X # X X X # X # 
+#   #   #   #   # # # # #   # X # X #   # X # 
+#       #   #               # X X X #   # E # 
+# # # # # # # # # # # # # # # # # # # # # # # 

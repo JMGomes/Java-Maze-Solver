@@ -1,0 +1,15 @@
+solutions can be found at “/solutions_found” folder.
+source code can be found at “/src” folder.
+
+——
+
+to execute run on terminal:
+
+$ java genTrackTest.mazeSolver medium_input.txt
+or
+$ java genTrackTest.mazeSolver large_input.txt 
+
+—-
+
+Thank you
+João Manuel Gomes

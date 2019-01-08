@@ -1,0 +1,8 @@
+FOUND SOLUTION
+[pos_x: 1', pos_y=1, pos_x: 2', pos_y=1, pos_x: 3', pos_y=1, pos_x: 3', pos_y=2, pos_x: 3', pos_y=3, pos_x: 3', pos_y=4]
+# # # # # 
+# S X X # 
+#   # X # 
+#   # X # 
+#   # E # 
+# # # # # 
